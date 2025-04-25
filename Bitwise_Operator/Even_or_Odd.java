@@ -25,8 +25,6 @@ public class Even_or_Odd {
         else {
             System.out.println("Odd");
         }
-
-        
     }
 }
 
