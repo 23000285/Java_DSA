@@ -1,6 +1,6 @@
 package Bitwise_Operator;
 
-public class Solution {
+public class Hamming_Distance {
     public static void main(String[] args) {
 
         int x = 10;
@@ -25,6 +25,6 @@ public class Solution {
 
         System.out.printf("The Binary value of y is %s\n", b2);
 
-        System.out.println("The count of two Unequal Bits is " + count);
+        System.out.printf("The count of two Unequal Bits is %d",count);
     }
 }
