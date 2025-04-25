@@ -41,7 +41,7 @@ public class Reverse_bits {
         while(mask<input){
             mask=(mask<<1) |1;
         }
-
+        
         compliment=compliment&mask;
         System.out.println(compliment);
 
