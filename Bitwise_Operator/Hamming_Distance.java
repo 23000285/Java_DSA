@@ -20,7 +20,7 @@ public class Hamming_Distance {
                 count++;
             }
         }
-
+        
         System.out.printf("The Binary value of x is %s\n", b1);
 
         System.out.printf("The Binary value of y is %s\n", b2);
