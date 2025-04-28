@@ -2,14 +2,13 @@ package Recursion;
 
 public class Demo {
     public static void iterate(int n) {
-        if (n < 1) {
-            return;
+        if(n<=100){
+            System.out.println(n);
+            iterate(n+1);
         }
-        System.out.println("Welcome to Saveetha");
-        iterate(n - 1);
     }
 
     public static void main(String[] args) {
-        iterate(5);
+        iterate(1);
     }
 }
