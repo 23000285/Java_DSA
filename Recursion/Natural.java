@@ -5,9 +5,7 @@ public class Natural {
         if(n==0){
             return 0;
         }
-        
         return n+display(n-1);
-
     }
     
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package Recursion;
 
 public class Fibonacci {
-
+    
     public static int fibonacci1(int n) {
         if (n == 0) {
             return 0;

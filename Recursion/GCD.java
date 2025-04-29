@@ -12,6 +12,7 @@ public class GCD {
     }
 
     public static void main(String[] args) {
-        System.out.println(display(15, 21));
+        System.out.println(display(18, 30));
+        System.out.println(display(49,35));
     }
 }
