@@ -1,6 +1,6 @@
 package Switch;
 
-public class Switch {
+public class Roman_number {
     public static void main(String[] args){
         // Create the menu based question for the choosing of the faculty members and who can able to access and talk with hod
         // This is just for an example

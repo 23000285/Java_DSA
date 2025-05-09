@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.*;
 
-public class Basic {
+public class Patterns {
     public static void main(String[] args) {
 
         // Fill String Array with "Hello"
