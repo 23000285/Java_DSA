@@ -11,11 +11,5 @@ public class Powers_of_2 {
         } else {
             System.out.println("Not power of 2");
         }
-
-        // // To Make the power rise to it
-        // for (int i = 0; i < 10; i++) {
-        //     System.out.println(1 << i);  // 2^i
-        // }
-
     }
 }

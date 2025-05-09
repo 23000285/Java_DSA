@@ -6,8 +6,5 @@ public class Basic_New {
         Basic b=new Basic();
 
         System.out.println(b.calculateBMI());
-
-        
-
     }
 }

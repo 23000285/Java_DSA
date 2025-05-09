@@ -8,7 +8,7 @@ public class Switch {
             switch(i){
                 case 1:
                     System.out.println("I");
-                    // break;
+                    break;
 
                 case 2:
                     System.out.println("II");

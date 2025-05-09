@@ -8,13 +8,13 @@ public class Encapsulation {
 
         ep.setId(212223);
 
-        System.out.println(ep.getId());
+        System.out.println("The Id is "+ep.getId());
 
         // So it is private, so we can't access it
 
-        // ep.setAge(25);
+        ep.setAge(25);
 
-        // System.out.println(ep.age);
+        System.out.println("The age is "+ep.getAge());
     }
 }
 

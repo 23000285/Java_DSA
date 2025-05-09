@@ -35,7 +35,7 @@ public class Calculator {
         // int choice=1;
         
         while(true){
-            System.out.println("Enter the Choice: ");
+            System.out.println("Enter the Choice: (1-calculate,Don't want-any_number)");
             int choice=sc.nextInt();
             if(choice==1){
                 System.out.print("Enter the Symbol: ");

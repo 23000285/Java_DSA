@@ -19,6 +19,8 @@ public class armNum {
             sum_arm+=Math.pow(digit_arm,sum);
             temp=temp/10;
         }
+
+        
         System.out.println("Sum = "+sum);
         if(res==sum_arm){
             System.out.println("It is Armstrong Number = {"+res+"} equals to {"+sum_arm+"}");

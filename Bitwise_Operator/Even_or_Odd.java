@@ -17,7 +17,7 @@ public class Even_or_Odd {
 
 
         // Even or Odd with Bitwise Opeator
-        int input = 3;
+        int input = 11;
         if ((input & 1) == 0) {
             System.out.println("Even");
         }
